@@ -11,4 +11,5 @@ Overall, this project showcases my skills in handling real-world sports data, ma
 
 ### Major Insights
 Cape Verde Qualifies Despite Limited Historical Data
+
 Egypt Fails to Qualify
