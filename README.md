@@ -9,7 +9,6 @@ The project not only demonstrated my proficiency in data analytics and programmi
 
 Overall, this project showcases my skills in handling real-world sports data, making data-driven predictions, and presenting insights that contribute to a deeper understanding of the 2023 AFCON group stages.
 
-
-
-
-
+### Major Insights
+Cape Verde Qualifies Despite Limited Historical Data
+Egypt Fails to Qualify
